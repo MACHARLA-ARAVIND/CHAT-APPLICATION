@@ -31,3 +31,4 @@ chat-app/
 In conclusion, Task 2 helped me understand the concept of real-time applications, socket communication, and backend event handling. It strengthened my knowledge of how client and server communicate, how to manage projects in a full stack setup, and gave me the confidence to build chat-based or multiplayer applications in the future. This was an excellent follow-up to Task 1, and a major step forward in my journey as a full stack web developer.
 
 #OUTPUT
+<img width="1223" height="847" alt="Image" src="https://github.com/user-attachments/assets/525d0997-5ab8-4650-8194-fb0e1b04fa01" />
